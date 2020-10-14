@@ -1,3 +1,5 @@
+Atmega 高压熔丝恢复
+
 # Atmel HVPP (High Voltage Parallel Programming)
 
 This little project was created after a delivery of some ATMEGA48 from Aliexpress which did not work in the biginning.
